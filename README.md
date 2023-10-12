@@ -1,2 +1,2 @@
 # hacktober_fest
-ashrith
+ashrith_venkat
